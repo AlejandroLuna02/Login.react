@@ -1,0 +1,76 @@
+.container {
+    position: absolute;
+    width: 910px;
+    height: 910px;
+    left: 200px;
+    top: 57px;
+    
+    background: #5e54543d;
+    border-radius: 30px;
+}
+
+.img {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 350px;
+    top: 0px;
+}
+
+.usuario {
+    position: absolute;
+    width: 77px;
+    height: 25px;
+    left: 200px;
+    top: 300px;
+}
+
+.input_text {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 500px;
+    height: 40px;
+    left: 200px;
+    top: 330px;
+}
+
+.contraseña {
+    position: absolute;
+    width: 97px;
+    height: 25px;
+    left: 200px;
+    top: 410px;
+}
+
+.input_password {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 500px;
+    height: 40px;
+    left: 200px;
+    top: 440px;
+}
+
+.btn {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 500px;
+    height: 40px;
+    left: 200px;
+    top: 550px;
+    border-radius: 20px;
+    border: none;
+}
+
+.registrarse {
+    position: absolute;
+    width: 231px;
+    height: 21px;
+    left: 350px;
+    top: 620px;
+}

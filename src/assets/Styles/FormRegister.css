@@ -1,0 +1,85 @@
+.container2 {
+    position: absolute;
+    width: 910px;
+    height: 910px;
+    left: 200px;
+    top: 57px;
+    
+    background: #5e54543d;
+    border-radius: 30px;
+}
+.name {
+    position: absolute;
+    width: 77px;
+    height: 25px;
+    left: 200px;
+    top: 300px;
+}
+.input1 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 500px;
+    height: 40px;
+    left: 200px;
+    top: 330px;
+}
+.user {
+    position: absolute;
+    width: 77px;
+    height: 25px;
+    left: 200px;
+    top: 400px;
+}
+.input2 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 500px;
+    height: 40px;
+    left: 200px;
+    top: 430px;
+}
+.e-mail {
+    position: absolute;
+    width: 77px;
+    height: 25px;
+    left: 200px;
+    top: 500px;
+}
+.input3 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 500px;
+    height: 40px;
+    left: 200px;
+    top: 530px;
+}
+.password {
+    position: absolute;
+    width: 77px;
+    height: 25px;
+    left: 200px;
+    top: 600px; 
+}
+.input4 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 500px;
+    height: 40px;
+    left: 200px;
+    top: 630px; 
+}
+.btn2 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 500px;
+    height: 40px;
+    left: 200px;
+    top: 750px;
+    border-radius: 20px;
+    border: none;
+}

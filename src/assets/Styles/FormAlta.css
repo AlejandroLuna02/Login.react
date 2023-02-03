@@ -1,0 +1,140 @@
+.container3 {
+    position: absolute;
+    width: 910px;
+    height: 910px;
+    left: 200px;
+    top: 57px;
+    
+    background: #5e54543d;
+    border-radius: 30px;
+}
+.h1 {
+    position: absolute;
+    width: 118px;
+    height: 25px;
+    left: 100px;
+    top: 200px;
+}
+.text1 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 300px;
+    height: 40px;
+    left: 100px;
+    top: 230px;
+}
+.h2 {
+    position: absolute;
+    width: 118px;
+    height: 25px;
+    left: 550px;
+    top: 200px;   
+}
+.text2 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 300px;
+    height: 40px;
+    left: 550px;
+    top: 230px;
+}
+.h3 {
+    position: absolute;
+    width: 300px;
+    height: 25px;
+    left: 100px;
+    top: 300px; 
+}
+.text3 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 300px;
+    height: 40px;
+    left: 100px;
+    top: 330px;
+}
+.h4 {
+    position: absolute;
+    width: 118px;
+    height: 25px;
+    left: 550px;
+    top: 300px;     
+}
+.text4 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 300px;
+    height: 40px;
+    left: 550px;
+    top: 330px;
+}
+.h5 {
+    position: absolute;
+    width: 300px;
+    height: 25px;
+    left: 100px;
+    top: 400px;     
+}
+.text5 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 750px;
+    height: 40px;
+    left: 100px;
+    top: 430px;
+}
+.h6 {
+    position: absolute;
+    width: 300px;
+    height: 25px;
+    left: 100px;
+    top: 500px;    
+}
+.text6 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 750px;
+    height: 40px;
+    left: 100px;
+    top: 530px;
+}
+.h7 {
+    position: absolute;
+    width: 300px;
+    height: 25px;
+    left: 100px;
+    top: 600px;  
+}
+.text7 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 750px;
+    height: 40px;
+    left: 100px;
+    top: 630px;
+}
+.btn3 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 750px;
+    height: 40px;
+    left: 100px;
+    top: 650px;
+    border-radius: 20px;
+    border: none;
+}
+#salir {
+    position: absolute;
+    width: 69px;
+    height: 23px;
+    left: 450px;
+    top: 730px;
+}
